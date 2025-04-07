@@ -39,7 +39,7 @@
         <td><a href="https://portal.issn.org/faq7">Link</a></td>
       </tr>
       <tr>
-        <td>Free</td>
+        <td>Paid</td>
         <td>SpringShare</td>
         <td>(Various)</td>
         <td></td>
