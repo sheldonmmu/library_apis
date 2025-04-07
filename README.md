@@ -2,7 +2,7 @@
   <table>
     <thead>
       <tr>
-        <th>Free or Paid</th>
+        <th>Cost</th>
         <th>Provider</th>
         <th>API Name</th>
         <th>Uses</th>
@@ -151,12 +151,18 @@
         <td></td>
       </tr>
       <tr>
-        <td>Free</td>
+        <td>(Free to members?)</td>
         <td>JISC</td>
         <td>JUSP resource usage</td>
         <td></td>
         <td></td>
       </tr>
+      <tr>
+        <td>?</td>
+        <td>JISC</td>JISC>
+        <td>Sherpa services/Open Policy Finder</td>
+        <td></td>
+        <td>https://openpolicyfinder.jisc.ac.uk/help/developers/use-our-api</td>
       <tr>
         <td>Free?</td>
         <td>Unpaywall</td>
