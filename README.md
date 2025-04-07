@@ -6,7 +6,7 @@
         <th>Provider</th>
         <th>API Name</th>
         <th>Uses</th>
-        <th>URL</th>
+        <th>Docs</th>
       </tr>
     </thead>
     <tbody>
