@@ -159,7 +159,7 @@
       </tr>
       <tr>
         <td>?</td>
-        <td>JISC</td>JISC>
+        <td>JISC</td>
         <td>Sherpa services/Open Policy Finder</td>
         <td></td>
         <td>https://openpolicyfinder.jisc.ac.uk/help/developers/use-our-api</td>
