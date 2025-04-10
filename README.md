@@ -162,7 +162,7 @@
         <td>JISC</td>
         <td>Sherpa services/Open Policy Finder</td>
         <td></td>
-        <td>https://openpolicyfinder.jisc.ac.uk/help/developers/use-our-api</td>
+        <td><a href="https://openpolicyfinder.jisc.ac.uk/help/developers/use-our-api">Link</a></td>
       <tr>
         <td>Free?</td>
         <td>Unpaywall</td>
